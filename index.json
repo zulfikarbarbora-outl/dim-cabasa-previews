@@ -1,0 +1,2514 @@
+{
+  "library": "Dim Cabasa",
+  "description": "Dim cabasa — Latin percussion instrument samples",
+  "license": "CC-BY-3.0",
+  "author": "kinwie",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/kinwie.dim-cabasa",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/dim-cabasa-previews",
+  "branch": "master",
+  "fileCount": 250,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/",
+  "files": [
+    {
+      "file": "bw_rr1_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_01.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_02.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_03.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_04.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_05.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_06.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_07.mp3",
+      "size": 10412,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_08.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_09.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_10.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_11.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_12.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_13.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_14.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_15.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_16.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_17.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_18.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_19.mp3",
+      "size": 10412,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_20.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_21.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_22.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_23.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_24.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr1_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr1_25.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "bw_rr2_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_01.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_02.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_03.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_04.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_05.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_06.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_07.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_08.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_09.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_10.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_11.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_12.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_13.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_14.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_15.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_16.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_17.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_18.mp3",
+      "size": 12332,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_19.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_20.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_21.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_22.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_23.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_24.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr2_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr2_25.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "bw_rr3_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_01.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_02.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_03.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_04.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_05.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_06.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_07.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_08.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_09.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_10.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_11.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_12.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_13.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_14.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_15.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_16.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_17.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_18.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_19.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_20.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_21.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_22.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_23.mp3",
+      "size": 12332,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_24.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr3_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr3_25.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "bw_rr4_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_01.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_02.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_03.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_04.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_05.mp3",
+      "size": 13100,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_06.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_07.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_08.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_09.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_10.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_11.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_12.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_13.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_14.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_15.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_16.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_17.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_18.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_19.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_20.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_21.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_22.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_23.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_24.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr4_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr4_25.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "bw_rr5_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_01.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_02.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_03.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_04.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_05.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_06.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_07.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_08.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_09.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_10.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_11.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_12.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_13.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_14.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_15.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_16.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_17.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_18.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_19.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_20.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_21.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_22.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_23.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_24.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "bw_rr5_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/bw_rr5_25.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr1_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_01.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_02.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_03.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_04.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_05.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_06.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_07.mp3",
+      "size": 12332,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_08.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_09.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_10.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_11.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_12.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_13.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_14.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_15.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_16.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_17.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_18.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_19.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_20.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_21.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_22.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_23.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_24.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr1_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr1_25.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 1
+    },
+    {
+      "file": "fw_rr2_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_01.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_02.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_03.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_04.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_05.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_06.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_07.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_08.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_09.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_10.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_11.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_12.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_13.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_14.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_15.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_16.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_17.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_18.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_19.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_20.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_21.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_22.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_23.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_24.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr2_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr2_25.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 2
+    },
+    {
+      "file": "fw_rr3_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_01.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_02.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_03.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_04.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_05.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_06.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_07.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_08.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_09.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_10.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_11.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_12.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_13.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_14.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_15.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_16.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_17.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_18.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_19.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_20.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_21.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_22.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_23.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_24.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr3_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr3_25.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 3
+    },
+    {
+      "file": "fw_rr4_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_01.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_02.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_03.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_04.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_05.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_06.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_07.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_08.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_09.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_10.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_11.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_12.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_13.mp3",
+      "size": 12332,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_14.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_15.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_16.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_17.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_18.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_19.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_20.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_21.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_22.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_23.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_24.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr4_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr4_25.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 4
+    },
+    {
+      "file": "fw_rr5_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_01.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_02.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_03.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_04.mp3",
+      "size": 13100,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_05.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_06.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_07.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_08.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_08.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_09.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_09.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_10.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_11.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_12.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_12.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_13.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_13.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_14.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_14.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_15.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_15.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_16.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_16.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_17.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_17.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_18.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_18.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_19.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_19.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_20.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_20.mp3",
+      "size": 11948,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_21.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_21.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_22.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_22.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_23.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_23.mp3",
+      "size": 11180,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_24.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_24.mp3",
+      "size": 10796,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    },
+    {
+      "file": "fw_rr5_25.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/dim-cabasa-previews/master/fw_rr5_25.mp3",
+      "size": 11564,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": 5
+    }
+  ],
+  "byNote": {}
+}
